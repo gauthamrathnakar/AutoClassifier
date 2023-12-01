@@ -1,0 +1,7 @@
+[2023-12-01 23:45:24,786] INFO : --------------------------------------------------------------------------------------------------------
+[2023-12-01 23:45:24,786] INFO : Executing Autoclassifier on the Dataset: diabetes.csv
+
+[2023-12-01 23:45:26,231] INFO : Among the above classification algorithms, Logistic Regression gives the best accuracy of 0.8275862068965517
+[2023-12-01 23:45:26,231] INFO : 
+
+
